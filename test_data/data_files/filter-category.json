@@ -1,0 +1,374 @@
+[
+    {
+        "id": 222,
+        "name": "Database tools"
+    },
+    {
+        "id": 226,
+        "name": "Data connectivity"
+    },
+    {
+        "id": 6,
+        "name": ".NET"
+    },
+    {
+        "id": 8,
+        "name": "Delphi"
+    },
+    {
+        "id": 11,
+        "name": "ODBC"
+    },
+    {
+        "id": 263,
+        "name": "Python"
+    },
+    {
+        "id": 9,
+        "name": "Excel"
+    },
+    {
+        "id": 15,
+        "name": "SSIS"
+    },
+    {
+        "id": 53,
+        "name": "ORM"
+    },
+    {
+        "id": 60,
+        "name": "ActiveCampaign"
+    },
+    {
+        "id": 234,
+        "name": "AfterShip"
+    },
+    {
+        "id": 57,
+        "name": "Alibaba Cloud"
+    },
+    {
+        "id": 16,
+        "name": "Amazon Redshift"
+    },
+    {
+        "id": 59,
+        "name": "Asana"
+    },
+    {
+        "id": 17,
+        "name": "ASE"
+    },
+    {
+        "id": 18,
+        "name": "Azure"
+    },
+    {
+        "id": 89,
+        "name": "Azure Synapse Analytics"
+    },
+    {
+        "id": 19,
+        "name": "BigCommerce"
+    },
+    {
+        "id": 246,
+        "name": "Confluence"
+    },
+    {
+        "id": 20,
+        "name": "DB2"
+    },
+    {
+        "id": 54,
+        "name": "DBF"
+    },
+    {
+        "id": 73,
+        "name": "DEAR Inventory"
+    },
+    {
+        "id": 238,
+        "name": "Delighted"
+    },
+    {
+        "id": 21,
+        "name": "Dynamics 365"
+    },
+    {
+        "id": 70,
+        "name": "Email Octopus"
+    },
+    {
+        "id": 22,
+        "name": "Firebird"
+    },
+    {
+        "id": 23,
+        "name": "FreshBooks"
+    },
+    {
+        "id": 24,
+        "name": "FreshDesk"
+    },
+    {
+        "id": 269,
+        "name": "Freshservice"
+    },
+    {
+        "id": 62,
+        "name": "Freshworks CRM"
+    },
+    {
+        "id": 66,
+        "name": "Google Ads"
+    },
+    {
+        "id": 67,
+        "name": "Google Analytics"
+    },
+    {
+        "id": 26,
+        "name": "Google BigQuery"
+    },
+    {
+        "id": 254,
+        "name": "Google Sheets"
+    },
+    {
+        "id": 25,
+        "name": "Google Workspace"
+    },
+    {
+        "id": 27,
+        "name": "HubSpot"
+    },
+    {
+        "id": 63,
+        "name": "Insightly CRM"
+    },
+    {
+        "id": 28,
+        "name": "Interbase"
+    },
+    {
+        "id": 79,
+        "name": "Jira"
+    },
+    {
+        "id": 87,
+        "name": "Klaviyo"
+    },
+    {
+        "id": 29,
+        "name": "Magento"
+    },
+    {
+        "id": 230,
+        "name": "Mailjet"
+    },
+    {
+        "id": 30,
+        "name": "Mailchimp"
+    },
+    {
+        "id": 55,
+        "name": "MariaDB"
+    },
+    {
+        "id": 31,
+        "name": "Marketo"
+    },
+    {
+        "id": 32,
+        "name": "MongoDB"
+    },
+    {
+        "id": 33,
+        "name": "MySQL"
+    },
+    {
+        "id": 34,
+        "name": "NetSuite"
+    },
+    {
+        "id": 58,
+        "name": "NexusDB"
+    },
+    {
+        "id": 35,
+        "name": "Oracle"
+    },
+    {
+        "id": 56,
+        "name": "Percona"
+    },
+    {
+        "id": 64,
+        "name": "Pipedrive"
+    },
+    {
+        "id": 80,
+        "name": "Podio"
+    },
+    {
+        "id": 36,
+        "name": "PostgreSQL"
+    },
+    {
+        "id": 86,
+        "name": "QuestDB"
+    },
+    {
+        "id": 37,
+        "name": "QuickBooks"
+    },
+    {
+        "id": 266,
+        "name": "QuickBooks Desktop"
+    },
+    {
+        "id": 38,
+        "name": "Salesforce"
+    },
+    {
+        "id": 84,
+        "name": "Salesforce Marketing Cloud"
+    },
+    {
+        "id": 242,
+        "name": "Sendinblue"
+    },
+    {
+        "id": 275,
+        "name": "SendGrid"
+    },
+    {
+        "id": 71,
+        "name": "SendPulse"
+    },
+    {
+        "id": 272,
+        "name": "Shippo"
+    },
+    {
+        "id": 74,
+        "name": "ShipStation"
+    },
+    {
+        "id": 39,
+        "name": "Shopify"
+    },
+    {
+        "id": 72,
+        "name": "Slack"
+    },
+    {
+        "id": 61,
+        "name": "Snowflake"
+    },
+    {
+        "id": 41,
+        "name": "SQL Server"
+    },
+    {
+        "id": 42,
+        "name": "SQLite"
+    },
+    {
+        "id": 85,
+        "name": "Square"
+    },
+    {
+        "id": 65,
+        "name": "Streak"
+    },
+    {
+        "id": 78,
+        "name": "Stripe"
+    },
+    {
+        "id": 43,
+        "name": "Sugar CRM"
+    },
+    {
+        "id": 257,
+        "name": "SurveyMonkey"
+    },
+    {
+        "id": 278,
+        "name": "Twilio"
+    },
+    {
+        "id": 68,
+        "name": "Twitter Ads"
+    },
+    {
+        "id": 88,
+        "name": "WooCommerce "
+    },
+    {
+        "id": 81,
+        "name": "WordPress"
+    },
+    {
+        "id": 44,
+        "name": "xBase"
+    },
+    {
+        "id": 45,
+        "name": "Zendesk"
+    },
+    {
+        "id": 69,
+        "name": "Zoho Books"
+    },
+    {
+        "id": 46,
+        "name": "Zoho CRM"
+    },
+    {
+        "id": 77,
+        "name": "Zoho Desk"
+    },
+    {
+        "id": 75,
+        "name": "Zoho Inventory"
+    },
+    {
+        "id": 76,
+        "name": "Zoho Invoice"
+    },
+    {
+        "id": 82,
+        "name": "Zoho People"
+    },
+    {
+        "id": 251,
+        "name": "Zoho Projects"
+    },
+    {
+        "id": 1,
+        "name": "Add-in"
+    },
+    {
+        "id": 2,
+        "name": "Component"
+    },
+    {
+        "id": 260,
+        "name": "Connector"
+    },
+    {
+        "id": 3,
+        "name": "Driver"
+    },
+    {
+        "id": 4,
+        "name": "IDE"
+    },
+    {
+        "id": 5,
+        "name": "Standalone tool"
+    }
+]
