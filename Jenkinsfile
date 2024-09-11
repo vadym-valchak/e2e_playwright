@@ -3,9 +3,8 @@ pipeline {
    stages {
       stage('e2e-tests') {
          steps {
-            sh 'li'
-            // sh 'npm ci'
-            // sh 'npx playwright test'
+            sh 'npm ci'
+            sh 'npx playwright test'
          }
       }
    }
