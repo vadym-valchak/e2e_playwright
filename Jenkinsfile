@@ -7,8 +7,8 @@ pipeline {
          steps {
             // sh 'npm ci'
             // sh 'npx playwright test'
-            sh 'npx playwright --version';
-            sh 'ls -al'
+            // bat 'npx playwright --version';
+            echo 'Hello world'
          }
       }
    }
